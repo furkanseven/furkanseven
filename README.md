@@ -9,7 +9,7 @@
 - 📫 How to reach me **f.sevenn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.google.com/intl/tr/gmail/about/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/gmail-30-722694.png" alt="f.sevenn" height="30" width="30" /></a>
+<a href="mailto:f.sevenn@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/gmail-30-722694.png" alt="f.sevenn" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/furkan-seven/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-128/linkedin-160-461814.png" alt="furkan-seven" height="30" width="30" /></a>
 <a href="https://instagram.com/furkansvn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkansvn7" height="30" width="40" /></a>
 <a href="https://twitter.com/furkannsevenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkannsevenn" height="30" width="40" /></a>
